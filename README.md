@@ -8,6 +8,7 @@ Here is list of javascript libs and packages for fullstack development
 - [ ] Chart.js 
 - [ ] Choreographer-js
 - [ ] Jquery
+- [ ] Shimmer.js
 
 
 ## Bakcend
