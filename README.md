@@ -23,3 +23,4 @@ Here is list of javascript libs and packages for fullstack development
 - [ ] day.js
 - [ ] moment.js 
 - [ ] gray-matter 
+- [ ] marked - markdown parser
