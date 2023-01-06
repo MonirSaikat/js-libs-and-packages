@@ -14,6 +14,7 @@ Here is list of javascript libs and packages for fullstack development
 - [ ] Jquery
 - [ ] react-quill
 - [ ] react-marquee-slider
+- [ ] react-transition-group
 - [ ] Shimmer.js
 
 
