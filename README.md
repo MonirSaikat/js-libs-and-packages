@@ -19,6 +19,7 @@ Here is list of javascript libs and packages for fullstack development
 
 
 ## Bakcend
+- [ ] is-core-module - Is this specifier a node.js core module
 
 ## Fullstack
 - [ ] day.js
