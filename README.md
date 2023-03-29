@@ -13,6 +13,7 @@ Here is list of javascript libs and packages for fullstack development
 - [ ] html-react-parser
 - [ ] immer
 - [ ] Jquery
+- [ ] metismenu
 - [ ] react-quill
 - [ ] react-marquee-slider
 - [ ] react-transition-group
